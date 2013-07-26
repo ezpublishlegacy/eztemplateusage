@@ -17,4 +17,4 @@ Usage
 -----
 
 Type following command in your eZPublish root directory
-php extension/<extension_directory_name>/bin/php/templateUsage.php --help
+php extension/extension_directory_name/bin/php/templateUsage.php --help
